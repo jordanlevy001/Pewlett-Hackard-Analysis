@@ -2,15 +2,15 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to prepare Pewlett Hackard for when its employees begin to retire. It's important to understand and estimate which positions are likely to lose employees to retirement so we can begin to fill those positions or train/mentor younger employees to fill those roles. For this analysis, we assisted Bobby with determining the number of retiring employees by title as well as determine the employees who were eligibile for the mentorship program.
+The purpose of this analysis was to prepare Pewlett Hackard for when its employees retire. It's important to understand and estimate which positions are likely to lose employees to retirement so we can begin to fill those positions or train/mentor younger employees to fill those roles. For this analysis, we assisted Bobby with determining the number of retiring employees by title as well as determine the employees who were eligibile for the mentorship program.
 
 ## Results
 
 Analysis results:
 - A list of the most recent job titles of every potentially retiring employee, their first and last name, and employee number was summarized in a table called: unique_titles
-- The number of retiring employees for each position title was counted and summarized in a tabled called: retiring_titles
-- A mentorship_eligibility table was created to display current employees born in 1965 who are eligible for mentorship.
-- There are many employees in various positions who are eligible for mentorship.
+- The number of retiring employees for each position title was counted and summarized in a table called: retiring_titles
+- A mentorship_eligibility table was created to display current employees (born in 1965) who are eligible for mentorship
+- There are thousands of employees in various positions who are eligible for mentorship
 Pewlett Hackard will begin a mentorship program due to a large number of employees at retirement age.
 
 <img width="398" alt="Unique Titles" src="https://user-images.githubusercontent.com/88804543/135532585-e00537dc-d749-42ba-b8cf-89422bb09cfa.png">
