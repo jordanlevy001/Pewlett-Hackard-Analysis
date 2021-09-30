@@ -6,16 +6,18 @@ The purpose of this analysis was to prepare Pewlett Hackard for when its employe
 
 ## Results
 
-Pewlett Hackard should begin a mentorship program due to a large number of employees at retirement age. There are also many employees eligible for the mentorship program.
+Analysis results:
 - A list of the most recent job titles of every potentially retiring employee, their first and last name, and employee number was summarized in a table called: unique_titles
 - The number of retiring employees for each position title was counted and summarized in a tabled called: retiring_titles
-
+- A mentorship_eligibility table was created to display current employees born in 1965 who are eligible for mentorship.
+- There are many employees in various positions who are eligible for mentorship.
+Pewlett Hackard will begin a mentorship program due to a large number of employees at retirement age.
 
 <img width="398" alt="Unique Titles" src="https://user-images.githubusercontent.com/88804543/135532585-e00537dc-d749-42ba-b8cf-89422bb09cfa.png">
 
 <img width="185" alt="Retiring_Titles" src="https://user-images.githubusercontent.com/88804543/135532755-50b115ed-e71f-4c19-b717-4824a3d623de.png">
 
-
+<img width="609" alt="Mentees for Mentorship Program" src="https://user-images.githubusercontent.com/88804543/135514346-b74532e1-ddbc-4fd3-8e64-b79076043660.png">
 
 
 ## Summary
