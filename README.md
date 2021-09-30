@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to prepare Pewlett Hackard for when its employees retire. It's important to understand and estimate which positions are likely to lose employees to retirement so we can begin to fill those positions or train/mentor younger employees to fill those roles. For this analysis, we assisted Bobby with determining the number of retiring employees by title as well as determine the employees who were eligibile for the mentorship program.
+The purpose of this analysis was to prepare Pewlett Hackard for when its employees retire. It's important to understand and estimate which positions are likely to lose employees to retirement so we can begin to fill those positions or train/mentor younger employees to fill those roles. For this analysis, we assisted Bobby with determining the number of retiring employees by title as well as determining the employees who were eligibile for the mentorship program.
 
 ## Results
 
