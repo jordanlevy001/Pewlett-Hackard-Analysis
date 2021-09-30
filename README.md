@@ -11,6 +11,7 @@ Analysis results:
 - The number of retiring employees for each position title was counted and summarized in a table called: retiring_titles
 - A mentorship_eligibility table was created to display current employees (born in 1965) who are eligible for mentorship
 - There are thousands of employees in various positions who are eligible for mentorship
+
 Pewlett Hackard will begin a mentorship program due to a large number of employees at retirement age.
 
 
