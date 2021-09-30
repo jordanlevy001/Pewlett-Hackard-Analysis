@@ -24,7 +24,7 @@ Pewlett Hackard will begin a mentorship program due to a large number of employe
 
 ## Summary
 
-About 82,000 employees are approaching retirement. About 75% of those employees are in senior engineering and senior staff positions. The mentorship program will be a very useful tool in preparing younger employees to replace those that are approaching retirement. There are only two managers approaching retirement but their positions
+About 82,000 employees are approaching retirement. About 75% of those employees are in senior engineering and senior staff positions. The mentorship program will be a very useful tool in preparing younger employees to replace those that are approaching retirement.
 
 There are enough qualified, retirement-ready employees in most departments to mentor the next generation of Pewlett Hackard employees. There are about twice as many senior engineers as engineers. And there are more than twice as many senior staff employees as staff employees. Additionally, there are thousands of employees (born in 1965) who could enter the mentorship program as mentees. If more mentees are needed, we could expand the pre-requisite for the mentorship program to include slightly older workers --workers born between 1965-1970 for example.
 
